@@ -11,3 +11,4 @@ Our project is to look into U.S. citizens travel trends to international oversea
 3. what's the most popular travel destination and the least favorable destination according to the travel trends in the past 20 years? 
 4. How the change of economy affect people's purchasing power on travel overseas?
 5. How income affect your travel decision？ （similiar to question #4) 
+6. The change on travel numbers during a major historical event/natual disarster/ political crisis. 
