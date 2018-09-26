@@ -1,0 +1,16 @@
+Write-up:
+
+1. How has travel numbers changed over time? (Regional distribution changed over months or years?)
+    Travel has nearly doubled since 1996, however some regions have shown more of a change than others. The Middle East and Central America have shown a highly upward trend over time, while South America and Oceania have lagged behind other areas in growth. 
+    
+2. What may make people travel during certain periods of time?
+    Travel patterns reveal themselves in monthly charts. There are spikes for travel in March potentially due to carnival/spring break. The summer months are the busiest, likely due to the pleasant weather and kids being out of school. September shows a downwards trend for the carribean and mexican regions, perhaps owing to the hurricane season. December has a noticeable spike as well, most likely because of the holidays and time from work. 
+    
+3. What's the most popular travel destination and the least favorable destination according to the travel trends in the past 20 years?
+    Europe is by far the most popular travel destination. Mexico and the Carribean alternate between second and third place fairly often. The least traveled to region appears to be Africa. 
+    
+4. How the change of economy affect people's purchasing power on traveling overseas?
+    The amount of outbound visitors appears to be inversely linked to the unemployment rate. Travel spending has made an upward trajectory overall, suffering only slight setbacks after 9/11 and the recession in 2008.
+    
+5. The change on travel numbers during a major historical event/natual disarster/ political crisis.
+    It is difficult to describe the impact of a major historical event on the data that we have. We can not conclusively say that events such as 9/11 have impacted the travel data, while at the same time discounting the recession around that time and its impact on travel tourism and the economy. 
