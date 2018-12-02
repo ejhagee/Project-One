@@ -1,6 +1,7 @@
 # United States Citizen International Airline Departures
 A Collaborative Data Visualization Project
 
+![departures/unemployment graph](https://github.com/ejhagee/U.S-International-Airline-Departures/blob/master/images/departures_and_unemployment.png)
 
 # Project Summary
 Our project is to look into U.S. citizens travel trends to international overseas regions from the last 20 years (1996 -2017). We consider variables such as year and time of year which will lead into other factors such as weather and US economic climate.
